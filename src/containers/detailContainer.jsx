@@ -1,3 +1,6 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable max-len */
+/* eslint-disable keyword-spacing */
 import React, { Component } from 'react';
 import CharacterDetail from '../components/Characters/CharacterDetail';
 import { fetchCharacterById } from '../services/heyArnoldApi.js';
