@@ -1,6 +1,6 @@
 /* eslint-disable keyword-spacing */
 import React, { Component } from 'react';
-import CharacterList from '../components/Characters/Characters';
+import CharacterList from '../components/Characters/CharacterList';
 import { fetchCharacters } from '../services/heyArnoldApi';
 
 export default class HeyArnoldCharacters extends Component {
